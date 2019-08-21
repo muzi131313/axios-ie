@@ -64,7 +64,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "sinon": "^1.17.4",
     "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1",
+    "webpack-dev-server": "^3.1.11",
     "url-search-params": "^0.6.1",
     "typescript": "^2.0.3"
   },
